@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lhw/workspace/c++/sy_yitu/main.cpp
+iostream
+-
+string
+-
+map
+-
+sstream
+-
+algorithm
+-
+bits/stl_vector.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nullptr_null.dir/main.cpp.o  -o nullptr_null 

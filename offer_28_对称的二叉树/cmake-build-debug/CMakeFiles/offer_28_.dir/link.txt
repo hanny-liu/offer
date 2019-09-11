@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/offer_28_.dir/main.cpp.o  -o offer_28_ 

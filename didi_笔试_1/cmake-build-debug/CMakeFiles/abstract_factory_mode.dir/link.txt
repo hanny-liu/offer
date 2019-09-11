@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/abstract_factory_mode.dir/main.cpp.o  -o abstract_factory_mode 

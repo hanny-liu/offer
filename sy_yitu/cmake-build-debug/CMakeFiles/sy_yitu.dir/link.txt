@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sy_yitu.dir/main.cpp.o  -o sy_yitu 
